@@ -2,12 +2,6 @@
 layout: default
 ---
 
-# Summary
-
-06-2018 - current: Software developer @ The Sting
-06-2016 - 05-2018: Software developer @ IBM Client Innovation Center
-08-2015 - 05-2016: Software developer @ QNH Consulting 
-
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
