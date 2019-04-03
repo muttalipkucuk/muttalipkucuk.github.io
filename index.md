@@ -2,6 +2,26 @@
 layout: default
 ---
 
+# Backend
+- Java
+  - CompletableFuture
+    - runAsync
+    - supplyAsync
+    - thenApply
+    - thenAccept
+    - thenRun
+    - thenCompose
+    - thenCombine
+    - allOf
+    - anyOf
+    - exceptionally
+    - handle
+  - Vavr (formerly: Javaslang)
+    - ...
+    - ...
+
+* * *
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
