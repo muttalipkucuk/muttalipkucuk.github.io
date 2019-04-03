@@ -3,22 +3,12 @@ layout: default
 ---
 
 # Backend
-- Java
-  - CompletableFuture
-    - runAsync
-    - supplyAsync
-    - thenApply
-    - thenAccept
-    - thenRun
-    - thenCompose
-    - thenCombine
-    - allOf
-    - anyOf
-    - exceptionally
-    - handle
-  - Vavr (formerly: Javaslang)
-    - ...
-    - ...
+## Java
+
+<dl>
+<dt>CompletableFuture</dt>
+<dd>runAsync - supplyAsync - thenApply - thenAccept - thenRun - thenCompose - thenCombine - allOf - anyOf - exceptionally - handle</dd>
+</dl>
 
 * * *
 
