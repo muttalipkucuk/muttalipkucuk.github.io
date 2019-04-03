@@ -2,7 +2,6 @@
 layout: default
 ---
 
-# Backend
 ## Java
 
 <dl>
