@@ -8,8 +8,8 @@ layout: default
   <dt>CompletableFuture</dt>
   <dd>runAsync - supplyAsync - thenApply - thenAccept - thenRun - thenCompose - thenCombine - allOf - anyOf - exceptionally - handle</dd>
   
-  <dt>Vavr (formerly: Javslang)</dt>
-  <dd>..</dd>
+  <dt>Vavr (formerly: Javaslang)</dt>
+  <dd>TBD</dd>
 </dl>
 * * *
 
