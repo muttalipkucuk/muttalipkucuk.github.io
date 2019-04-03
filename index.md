@@ -6,10 +6,12 @@ layout: default
 ## Java
 
 <dl>
-<dt>CompletableFuture</dt>
-<dd>runAsync - supplyAsync - thenApply - thenAccept - thenRun - thenCompose - thenCombine - allOf - anyOf - exceptionally - handle</dd>
+  <dt>CompletableFuture</dt>
+  <dd>runAsync - supplyAsync - thenApply - thenAccept - thenRun - thenCompose - thenCombine - allOf - anyOf - exceptionally - handle</dd>
+  
+  <dt>Vavr (formerly: Javslang)</dt>
+  <dd>..</dd>
 </dl>
-
 * * *
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
