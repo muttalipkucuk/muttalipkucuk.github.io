@@ -2,6 +2,12 @@
 layout: default
 ---
 
+[Contact](.contact.html)
+[CV](./cv.html)
+
+
+
+
 ## Java
 
 <dl>
