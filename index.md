@@ -2,23 +2,6 @@
 layout: default
 ---
 
-[Contact](.contact.html)
-[CV](./cv.html)
-
-
-
-
-## Java
-
-<dl>
-  <dt>CompletableFuture</dt>
-  <dd>runAsync - supplyAsync - thenApply - thenAccept - thenRun - thenCompose - thenCombine - allOf - anyOf - exceptionally - handle</dd>
-  
-  <dt>Vavr (formerly: Javaslang)</dt>
-  <dd>TBD</dd>
-</dl>
-* * *
-
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
