@@ -10,6 +10,8 @@ redirect_from:
 **Currently** I am working as a Java developer at The Sting (thesting.com, costesfashion.com and distriktnorrebro.com)
 {: .notice}
 
+---
+
 Programming
 :   Java, Python, Spring, JavaScript, TypeScript
 
