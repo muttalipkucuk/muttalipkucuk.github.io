@@ -7,8 +7,6 @@ redirect_from:
   - /home.html
 ---
 
-## Notices
-
 **Current job:** Working as Java developer at The Sting.
 {: .notice}
 
