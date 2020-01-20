@@ -7,10 +7,7 @@ redirect_from:
   - /home.html
 ---
 
-**Currently** I am working as a Java developer at The Sting:
-- www.thesting.com
-- www.costesfashion.com
-- www.distriktnorrebro.com
+**Currently** I am working as a Java developer at The Sting (thesting.com, costesfashion.com and distriktnorrebro.com)
 {: .notice}
 
 ### Quote Tag
