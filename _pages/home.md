@@ -40,5 +40,6 @@ Integration
 Tools
 :   GIT, Trello, Atlassian tools, Slack
 
+---
 
-<q>Simplicity is the ultimate sophistication</q> &#8211; Leonardo da Vinci
+> <q>Simplicity is the ultimate sophistication</q> &#8211; Leonardo da Vinci
