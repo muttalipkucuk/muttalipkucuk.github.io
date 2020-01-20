@@ -11,9 +11,9 @@ title                    : "Muttalip Küçük / Portfolio"
 title_separator          : "-"
 name                     : &name "Muttalip Küçük"
 description              : &description "Portfolio"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://muttalipkucuk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "muttalipkucuk/muttalipkucuk.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter muttalipkucuk
 facebook:
   username               :
   app_id                 :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "muttalipkucuk"
   google_plus      :
   keybase          :
   instagram        :
@@ -106,10 +106,10 @@ author:
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : # https://stackoverflow.com/users/8092705/muttalip-kucuk
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "muttalipkucuk"
   vine             :
   weibo            :
   xing             :
