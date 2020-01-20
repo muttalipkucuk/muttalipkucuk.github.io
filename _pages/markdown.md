@@ -4,7 +4,7 @@ title: "Markdown"
 author_profile: true
 redirect_from: 
   - /md/
-  - /markdown.html
+  - /markdown.htmlQuote Tag
 ---
 
 ## Locations of key files/directories
